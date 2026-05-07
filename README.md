@@ -1,4 +1,4 @@
-# 🟣 Sudoku Game
+# 🟠 Sudoku Game
 
 Projeto de Sudoku desenvolvido em Java utilizando Swing, Programação Orientada a Objetos e Maven.
 
@@ -252,7 +252,7 @@ O projeto foi estruturado para permitir implementação futura de testes unitár
 
 ---
 
-# Portfólio
+🟠 Portfólio
 
 Este projeto faz parte do processo de evolução prática em desenvolvimento Java e engenharia de software.
 
