@@ -1,4 +1,4 @@
-# 🟣 Sudoku Game Java
+# 🟣 Sudoku Game
 
 Projeto de Sudoku desenvolvido em Java utilizando Swing, Programação Orientada a Objetos e Maven.
 
