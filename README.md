@@ -259,8 +259,7 @@ Este projeto faz parte do processo de evolução prática em desenvolvimento Jav
 ---
 
 # Autor
-
-## Roberto César Yanes
+ Roberto César Yanes
 
 
 GitHub:
